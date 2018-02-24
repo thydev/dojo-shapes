@@ -19,7 +19,7 @@
 #pacman-right {
     width: 75px;
     height: 0;
-    border-top: 75px solid #f00;
+    border-top: 75px solid #00f;
     border-right: 75px solid transparent;
     border-bottom: 75px solid #00f;
     border-left: 0;
@@ -28,7 +28,7 @@
 #pacman-left {
     width: 75px;
     height: 0;
-    border-top: 75px solid #f00;
+    border-top: 75px solid #00f;
     border-right: 0;
     border-bottom: 75px solid #00f;
     border-left: 75px solid transparent;
@@ -38,7 +38,7 @@
     width: 0;
     height: 75px;
     border-top: 75px solid transparent;
-    border-right: 75px solid #f00;
+    border-right: 75px solid #00f;
     border-bottom: 0;
     border-left: 75px solid #00f;
     border-radius: 50%;
@@ -47,7 +47,7 @@
     width: 0;
     height: 75px;
     border-top: 0;
-    border-right: 75px solid #f00;
+    border-right: 75px solid #00f;
     border-bottom: 75px solid transparent;
     border-left: 75px solid #00f;
     border-radius: 50%;
